@@ -3,9 +3,24 @@
 
 [English Version](https://github.com/devicetree-org/devicetree-specification)
 
+
+
+### 翻译
+
+|          章节           |   翻译er    |
+| :---------------------: | :---------: |
+|  [ch01](./doc/ch01.md)  |    SPeak    |
+|  [ch02](./doc/ch02.md)  |    SPeak    |
+| [ch03]((./doc/ch03.md)) | invoker__qq |
+| [ch04]((./doc/ch04.md)) | invoker__qq |
+| [ch05]((./doc/ch05.md)) |  wil1jiang  |
+| [ch06]((./doc/ch06.md)) |  wil1jiang  |
+
+
+
 ###  目录
 
-##### 1.前言
+##### 1.[前言](./doc/ch01.md)
 
 > 1.1 目的和范围
 >
@@ -15,7 +30,7 @@
 >
 > 1.4 术语说明
 
-##### 2.设备树
+##### 2.[设备树](./doc/ch02.md)
 
 > 2.1 概述
 >
@@ -52,7 +67,7 @@
 > - 2.5.1 关联节点属性
 > - 2.5.2 映射说明符举例
 
-##### 3.设备节点规范
+##### 3.[设备节点规范](./doc/ch03.md)
 
 > 3.1 基础设备节点类型
 >
@@ -74,7 +89,7 @@
 >
 > 3.8 多级共享 Cache 节点(/cpus/cpu*/1?-cache)
 
-##### 4.设备 bindings
+##### 4.[设备 bindings](./doc/ch04.md)
 
 > 4.1 bindings 指南
 >
@@ -95,7 +110,7 @@
 >
 > 4.5 simple-bus 兼容
 
-5.扁平设备树(FBT)格式
+5.[扁平设备树(FBT)格式](./doc/ch05.md)
 
 > 5.1 版本
 >
@@ -115,7 +130,7 @@
 >
 > 5.6 对齐
 
-##### 6.设备树(DTS)格式(版本1)
+##### 6.[设备树(DTS)格式(版本1)](./doc/ch06.md)
 
 > 6.1 编译指令
 >
