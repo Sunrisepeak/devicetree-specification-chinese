@@ -9,17 +9,17 @@
 
 > h2 一级
 >
-> h4 二级
+> h3 二级
 >
-> h6 三级
+> h4 三级
 >
 > 例:
 >
 > ## 1 一级标题
 >
-> #### 1.1 二级标题
+> ### 1.1 二级标题
 >
-> ###### 1.1.1 三级标题
+> #### 1.1.1 三级标题
 
 
 
@@ -44,13 +44,13 @@
 
 ##### 1.[前言](./doc/ch01.md)
 
-> 1.1 目的和范围
+> 1.1 [目的和范围](https://github.com/UnknownBugs/devicetree-specification-chinese/blob/main/doc/ch01.md#11%E7%9B%AE%E7%9A%84%E5%92%8C%E5%BA%94%E7%94%A8)
 >
-> 1.2 IEEE^TM 1275 和 ePAPR 的关系
+> 1.2 [IEEE^TM 1275 和 ePAPR 的关系](https://github.com/UnknownBugs/devicetree-specification-chinese/blob/main/doc/ch01.md#12-ieeetm-1275-%E5%92%8C-epapr%E7%9A%84%E5%85%B3%E7%B3%BB)
 >
-> 1.3 32bit 和 64bit 支持
+> 1.3 [32bit 和 64bit 支持](https://github.com/UnknownBugs/devicetree-specification-chinese/blob/main/doc/ch01.md#12-3264%E4%BD%8D%E6%94%AF%E6%8C%81)
 >
-> 1.4 术语说明
+> 1.4 [术语说明](https://github.com/UnknownBugs/devicetree-specification-chinese/blob/main/doc/ch01.md#14-%E6%9C%AF%E8%AF%AD%E8%AF%B4%E6%98%8E)
 
 ##### 2.[设备树](./doc/ch02.md)
 
