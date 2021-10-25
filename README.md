@@ -54,9 +54,9 @@
 
 ##### 2.[设备树](./doc/ch02.md)
 
-> 2.1 概述
+> 2.1 [概述](https://github.com/UnknownBugs/devicetree-specification-chinese/blob/main/doc/ch02.md#21%E6%A6%82%E8%BF%B0)
 >
-> 2.2 设备树结构和约束
+> 2.2 [设备树结构和约束](https://github.com/UnknownBugs/devicetree-specification-chinese/blob/main/doc/ch02.md#22-%E8%AE%BE%E5%A4%87%E6%A0%91%E7%BB%93%E6%9E%84%E4%B8%8E%E7%BA%A6%E5%AE%9A)
 >
 > - 2.2.1 节点名
 > - 2.2.2 推荐的通用命名
