@@ -58,8 +58,8 @@
 >
 > 2.2 [设备树结构和约束](https://github.com/UnknownBugs/devicetree-specification-chinese/blob/main/doc/ch02.md#22-%E8%AE%BE%E5%A4%87%E6%A0%91%E7%BB%93%E6%9E%84%E4%B8%8E%E7%BA%A6%E5%AE%9A)
 >
-> - 2.2.1 节点名
-> - 2.2.2 推荐的通用命名
+> - 2.2.1 [结点名](https://github.com/UnknownBugs/devicetree-specification-chinese/blob/main/doc/ch02.md#221-%E7%BB%93%E7%82%B9%E5%90%8D)
+> - 2.2.2 [推荐的通用命名](https://github.com/UnknownBugs/devicetree-specification-chinese/blob/main/doc/ch02.md#222-%E6%8E%A8%E8%8D%90%E7%9A%84%E9%80%9A%E7%94%A8%E7%BB%93%E7%82%B9%E5%90%8D)
 > - 2.2.3 路径名
 > - 2.2.4 属性
 >
