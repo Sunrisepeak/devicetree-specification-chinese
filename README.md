@@ -60,8 +60,8 @@
 >
 > - 2.2.1 [结点名](https://github.com/UnknownBugs/devicetree-specification-chinese/blob/main/doc/ch02.md#221-%E7%BB%93%E7%82%B9%E5%90%8D)
 > - 2.2.2 [推荐的通用命名](https://github.com/UnknownBugs/devicetree-specification-chinese/blob/main/doc/ch02.md#222-%E6%8E%A8%E8%8D%90%E7%9A%84%E9%80%9A%E7%94%A8%E7%BB%93%E7%82%B9%E5%90%8D)
-> - 2.2.3 路径名
-> - 2.2.4 属性
+> - 2.2.3 [路径名](https://github.com/UnknownBugs/devicetree-specification-chinese/blob/main/doc/ch02.md#223-%E8%B7%AF%E5%BE%84%E5%90%8D)
+> - 2.2.4 [属性](https://github.com/UnknownBugs/devicetree-specification-chinese/blob/main/doc/ch02.md#224-%E5%B1%9E%E6%80%A7)
 >
 > 2.3 标准属性
 >
