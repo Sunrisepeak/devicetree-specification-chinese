@@ -48,7 +48,7 @@
 >
 > 1.2 [IEEE^TM 1275 和 ePAPR 的关系](https://github.com/UnknownBugs/devicetree-specification-chinese/blob/main/doc/ch01.md#12-ieeetm-1275-%E5%92%8C-epapr%E7%9A%84%E5%85%B3%E7%B3%BB)
 >
-> 1.3 [32bit 和 64bit 支持](https://github.com/UnknownBugs/devicetree-specification-chinese/blob/main/doc/ch01.md#12-3264%E4%BD%8D%E6%94%AF%E6%8C%81)
+> 1.3 [32bit 和 64bit 支持](https://github.com/UnknownBugs/devicetree-specification-chinese/blob/main/doc/ch01.md#13-3264%E4%BD%8D%E6%94%AF%E6%8C%81)
 >
 > 1.4 [术语说明](https://github.com/UnknownBugs/devicetree-specification-chinese/blob/main/doc/ch01.md#14-%E6%9C%AF%E8%AF%AD%E8%AF%B4%E6%98%8E)
 
@@ -56,14 +56,14 @@
 
 > 2.1 [概述](https://github.com/UnknownBugs/devicetree-specification-chinese/blob/main/doc/ch02.md#21%E6%A6%82%E8%BF%B0)
 >
-> 2.2 [设备树结构和约束](https://github.com/UnknownBugs/devicetree-specification-chinese/blob/main/doc/ch02.md#22-%E8%AE%BE%E5%A4%87%E6%A0%91%E7%BB%93%E6%9E%84%E4%B8%8E%E7%BA%A6%E5%AE%9A)
+> 2.2 [设备树结构与其规范](https://github.com/UnknownBugs/devicetree-specification-chinese/blob/main/doc/ch02.md#22-%E8%AE%BE%E5%A4%87%E6%A0%91%E7%BB%93%E6%9E%84%E4%B8%8E%E5%85%B6%E8%A7%84%E8%8C%83)
 >
 > - 2.2.1 [结点名](https://github.com/UnknownBugs/devicetree-specification-chinese/blob/main/doc/ch02.md#221-%E7%BB%93%E7%82%B9%E5%90%8D)
-> - 2.2.2 [推荐的通用命名](https://github.com/UnknownBugs/devicetree-specification-chinese/blob/main/doc/ch02.md#222-%E6%8E%A8%E8%8D%90%E7%9A%84%E9%80%9A%E7%94%A8%E7%BB%93%E7%82%B9%E5%90%8D)
+> - 2.2.2 [推荐的通用命名](https://github.com/UnknownBugs/devicetree-specification-chinese/blob/main/doc/ch02.md#222-%E6%8E%A8%E8%8D%90%E7%9A%84%E9%80%9A%E7%94%A8%E5%91%BD%E5%90%8D)
 > - 2.2.3 [路径名](https://github.com/UnknownBugs/devicetree-specification-chinese/blob/main/doc/ch02.md#223-%E8%B7%AF%E5%BE%84%E5%90%8D)
 > - 2.2.4 [属性](https://github.com/UnknownBugs/devicetree-specification-chinese/blob/main/doc/ch02.md#224-%E5%B1%9E%E6%80%A7)
 >
-> 2.3 标准属性
+> 2.3 [标准属性](https://github.com/UnknownBugs/devicetree-specification-chinese/blob/main/doc/ch02.md#23-%E6%A0%87%E5%87%86%E5%B1%9E%E6%80%A7)
 >
 > - 2.3.1 compatible
 > - 2.3.2 model
