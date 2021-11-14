@@ -65,9 +65,9 @@
 >
 > 2.3 [标准属性](https://github.com/UnknownBugs/devicetree-specification-chinese/blob/main/doc/ch02.md#23-%E6%A0%87%E5%87%86%E5%B1%9E%E6%80%A7)
 >
-> - 2.3.1 compatible
-> - 2.3.2 model
-> - 2.3.3 phandle
+> - 2.3.1 [compatible](https://github.com/UnknownBugs/devicetree-specification-chinese/blob/main/doc/ch02.md#231-compatible)
+> - 2.3.2 [model](https://github.com/UnknownBugs/devicetree-specification-chinese/blob/main/doc/ch02.md#232-model)
+> - 2.3.3 [phandle](https://github.com/UnknownBugs/devicetree-specification-chinese/blob/main/doc/ch02.md#233-phandle)
 > - 2.3.4 status
 > - 2.3.5 #address-cells and #size-cells
 > - 2.3.6 reg
@@ -134,7 +134,7 @@
 
 5.[扁平设备树(FBT)格式](./doc/ch05.md)
 
-> 5.1 版本
+> 5.1 [版本](https://github.com/UnknownBugs/devicetree-specification-chinese/blob/main/doc/ch05.md#51-%E7%89%88%E6%9C%AC%E6%8E%A7%E5%88%B6)
 >
 > 5.2 格式头
 >
