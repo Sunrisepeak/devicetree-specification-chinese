@@ -25,21 +25,6 @@
 
 
 
-
-
-### 翻译
-
-|          章节           |   翻译er    |
-| :---------------------: | :---------: |
-|  [ch01](./doc/ch01.md)  |    SPeak    |
-|  [ch02](./doc/ch02.md)  |    SPeak    |
-| [ch03](./doc/ch03.md) | invoker__qq |
-| [ch04](./doc/ch04.md) | invoker__qq |
-| [ch05](./doc/ch05.md) |  wil1jiang  |
-| [ch06](./doc/ch06.md) |  wil1jiang  |
-
-
-
 ###  目录
 
 ##### 1.[前言](./doc/ch01.md)
@@ -68,9 +53,9 @@
 > - 2.3.1 [compatible](https://github.com/UnknownBugs/devicetree-specification-chinese/blob/main/doc/ch02.md#231-compatible)
 > - 2.3.2 [model](https://github.com/UnknownBugs/devicetree-specification-chinese/blob/main/doc/ch02.md#232-model)
 > - 2.3.3 [phandle](https://github.com/UnknownBugs/devicetree-specification-chinese/blob/main/doc/ch02.md#233-phandle)
-> - 2.3.4 status
-> - 2.3.5 #address-cells and #size-cells
-> - 2.3.6 reg
+> - 2.3.4 [status](https://github.com/Sunrisepeak/devicetree-specification-chinese/blob/main/doc/ch02.md#224-status)
+> - 2.3.5 [#address-cells and #size-cells](https://github.com/Sunrisepeak/devicetree-specification-chinese/blob/main/doc/ch02.md#225-address-cells-%E5%92%8C-size-cells)
+> - 2.3.6 [reg](https://github.com/Sunrisepeak/devicetree-specification-chinese/blob/main/doc/ch02.md#226-reg)
 > - 2.3.7 virtual-reg
 > - 2.3.8 ranges
 > - 2.3.9 dma-ranges
