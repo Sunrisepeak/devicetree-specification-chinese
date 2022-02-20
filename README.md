@@ -56,15 +56,15 @@
 > - 2.3.4 [status](https://github.com/Sunrisepeak/devicetree-specification-chinese/blob/main/doc/ch02.md#224-status)
 > - 2.3.5 [#address-cells and #size-cells](https://github.com/Sunrisepeak/devicetree-specification-chinese/blob/main/doc/ch02.md#225-address-cells-%E5%92%8C-size-cells)
 > - 2.3.6 [reg](https://github.com/Sunrisepeak/devicetree-specification-chinese/blob/main/doc/ch02.md#226-reg)
-> - 2.3.7 virtual-reg
-> - 2.3.8 ranges
-> - 2.3.9 dma-ranges
-> - 2.3.10 name
-> - 2.3.11 device_type
+> - 2.3.7 [virtual-reg](doc/ch02.md)
+> - 2.3.8 [ranges](doc/ch02.md)
+> - 2.3.9 [dma-ranges]()
+> - 2.3.10 [name]()
+> - 2.3.11 [device_type]()
 >
-> 2.4 中断和中断映射
+> 2.4 [中断和中断映射](./doc/ch02.md)
 >
-> - 2.4.1 中断发生器?属性
+> - 2.4.1 [中断发生器?属性]()
 > - 2.4.2 中断控制器属性
 > - 2.4.3 中断关联属性
 > - 2.4.4 中断映射举例
