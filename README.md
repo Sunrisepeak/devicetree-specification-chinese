@@ -72,7 +72,7 @@
 > 2.5 [级联节点和映射说明符](./doc/ch02.md)
 >
 > - 2.5.1 [关联节点属性](doc/ch02.md)
-> - 2.5.2 映射说明符举例
+> - 2.5.2 [映射说明符举例](https://github.com/Sunrisepeak/devicetree-specification-chinese/blob/main/doc/ch02.md#25-级联节点和描述符映射)
 
 ##### 3.[设备节点规范](./doc/ch03.md)
 
