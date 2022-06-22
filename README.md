@@ -3,27 +3,7 @@
 
 [English Version](https://github.com/devicetree-org/devicetree-specification)
 
-
-
-#### 标题规范:
-
-> h2 一级
->
-> h3 二级
->
-> h4 三级
->
-> 例:
->
-> ## 1 一级标题
->
-> ### 1.1 二级标题
->
-> #### 1.1.1 三级标题
-
-
-
-
+> 第一遍粗翻中
 
 ###  目录
 
@@ -76,11 +56,11 @@
 
 ##### 3.[设备节点规范](./doc/ch03.md)
 
-> 3.1 基础设备节点类型
+> 3.1 [基础设备节点类型](doc/ch03.md)
 >
-> 3.2 root 节点
+> 3.2 [root 节点](doc/ch03.md)
 >
-> 3.3 /aliases 节点
+> 3.3 [/aliases 节点](doc/ch03.md)
 >
 > 3.4 /memory 节点
 >
