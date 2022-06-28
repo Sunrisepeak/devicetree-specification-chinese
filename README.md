@@ -62,7 +62,7 @@
 >
 > 3.3 [/aliases 节点](doc/ch03.md)
 >
-> 3.4 /memory 节点
+> 3.4 [/memory 节点](doc/ch03.md)
 >
 > 3.5 /chosen 节点
 >
