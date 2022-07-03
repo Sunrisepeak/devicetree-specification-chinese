@@ -64,11 +64,11 @@
 >
 > 3.4 [/memory 节点](doc/ch03.md)
 >
-> 3.5 /chosen 节点
+> 3.5 [/chosen 节点](doc/ch03.md)
 >
-> 3.6 /cpus 节点属性
+> 3.6 [/cpus 节点属性](doc/ch03.md)
 >
-> 3.7 /cpus/cpu* 节点属性
+> 3.7 [/cpus/cpu* 节点属性](doc/ch03.md)
 >
 > - 3.7.1 /cpus/cpu* 的通用属性
 > - 3.7.2 TLB 属性
