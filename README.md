@@ -95,7 +95,7 @@
 >
 > 4.4 Power ISA Open PIC 中断控制器
 >
-> 4.5 simple-bus 兼容
+> 4.5 [simple-bus 兼容](doc/ch04.md#45-simple-bus兼容节点属性)
 
 5.[扁平设备树(FBT)格式](./doc/ch05.md)
 
